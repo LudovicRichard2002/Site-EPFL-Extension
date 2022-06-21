@@ -345,7 +345,6 @@ body.image-card {
 	margin-right: 20px;
 }
 
-
 .stats {
     margin: 0;
 	padding: 0;
@@ -609,6 +608,12 @@ a.read_more:hover {
     text-decoration: underline;
     background-color: #7429a2;
 }
+
+/* smooth scroll */
+
+html {
+    scroll-behavior: smooth;
+  }
 
 
 /* Responsive CSS */

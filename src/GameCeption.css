@@ -605,6 +605,12 @@ body.image-card{
     opacity: .6;
 }
 
+/* smooth scroll */
+
+html {
+    scroll-behavior: smooth;
+  }
+
 /* Responsive CSS */
 
 /* Showcase */
